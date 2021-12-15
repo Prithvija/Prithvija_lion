@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+    </head>
+    <body>
+    
+        <h1>Travel to Karnataka😎😎</h1>
+        
+        <h2> What you are going to see in Karnataka!! :<br>
+        
+        </h2>
+        
+        <ol>
+        
+            <li id="Lakes"> Beautiful Lakes!! </li>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/lake.png" width="300"><br>
+            
+            <li id="Parkes"> Beautiful Parkes!! </li>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/fields-of-wine.png" width="300"><br>
+            <li id="Beaches"> Sunny Beaches!!! </li>
+            
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png" width="300">
+            
+        </ol>
+        
+        <h5> Everything here is AWESOME!!!</h5>
+        
+        <style>
+        
+            h4{
+                color:red;
+            }
+            
+            #Beaches{
+                background-color:yellow;
+            }
+            
+            #Parkes{
+                background-color:green;
+            }
+            
+            #Lakes{
+                background-color:blue;
+            }
+            
+            h1{
+                color:rgb(232, 21, 21);
+            }
+            
+          
+        </style>
+        
+        <h4> About Karnataka</h4>
+        
+        <p><em> Karnataka, formerly (until 1973) Mysore, state of India, located on the western coast of the subcontinent. It is bounded by the states of Goa and Maharashtra to the north, Telangana to the east, Tamil Nadu to the southeast, and Kerala to the south and by the Arabian Sea to the west. The state extends for about 420 miles (675 km) from north to south and for about 300 miles (480 km) from east to west. Its coastline stretches for some 200 miles (320 km). The capital is Bengaluru (Bangalore), near the southeastern border.</em> </p>
+
+        
+        </body>
+</html>
